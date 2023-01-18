@@ -14,4 +14,4 @@ end_fill()
 
 color("Black")
 delay("5000")
-write("     GALATASARAY")
+write("GALATASARAY")
